@@ -1,1 +1,1 @@
-# comic-watcher
+# comic-watchman
